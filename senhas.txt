@@ -1,2 +1,3 @@
 senha do google é 123456789
 senha do roteador é 987654321
+fazendo alteracao no txt para teste
